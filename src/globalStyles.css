@@ -1,0 +1,10 @@
+:root{
+    --orange: rgb(219, 99, 0);
+    --light-orange: rgb(255, 124, 18);
+}
+*{
+    font-family: sans-serif;
+}
+body{
+    background-color: rgb(240, 240, 240);
+}

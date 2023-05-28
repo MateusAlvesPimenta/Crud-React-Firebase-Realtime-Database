@@ -1,0 +1,21 @@
+.add-button{
+    font-weight: bold !important;
+    height: 3vw;
+    background-color: white !important;
+    color:rgb(219, 99, 0) !important;
+    border: 0;
+    border-radius: 5px;
+    transition: 1s;
+}
+.edit-delete-button{
+    font-weight: bold !important;
+    color: white !important;
+    border-radius: 5px;
+    transition: 1s;
+}
+.add-button:hover{
+    background-color: rgb(221, 221, 221) !important;
+}
+.edit-delete-button:hover{
+    color: rgb(221, 221, 221) !important;
+}
